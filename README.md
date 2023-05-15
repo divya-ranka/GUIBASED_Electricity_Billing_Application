@@ -90,11 +90,13 @@ Login:
 -> If we need to cancel the particulars that has been entered click onto cancel option.
 
 
-*****USER*****
+***** USER *****
 
 Login:
+
 -> This program will allow the customer to enter the username and password. If the entered credentials are correct, then the login will be successful 
 otherwise need to be signup with the meter_no which is given by admin. After successful login the customer will be redirected to customer portal page where he/she can do following activities.
+
 
 1. Update Information:
 -> This program will allow the customer to update the customer details. If customer address, city, state, email and phone number is updated.
@@ -120,6 +122,7 @@ otherwise need to be signup with the meter_no which is given by admin. After suc
 -> This program will allow the customer to generate bill when 
 meter_no and month is selected.
 -> Generate the details by clicking on generatebill button.
+
 NOTE: Utility (notepad, calculator), and logout is given to both customer and admin portals.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------

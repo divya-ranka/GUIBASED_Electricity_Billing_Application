@@ -49,6 +49,75 @@ Solution:
 -> As a result, it conserves resources and human labor.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+Project Working Procedure:
+
+*****ADMIN***** 
+Login:
+-> This program will allow the admin to enter the username and password.
+-> If the entered credentials are correct, then the login will be successful otherwise need to be signup.
+-> After successful login the admin will be redirected to admin portal page where he/she can do following activities.
+
+1. New Customer:
+-> This program will allow the admin to enter the customer details and automatically generates unique meter number.
+-> If customer name, address, city, state, email and phone number is entered, insert the values into customer else print error while next=true ,enter the meter_info details else print meter_info error
+-> Submit the details of customer that has been entered by clicking onto next button.
+-> If we need to cancel the particulars that has been entered click onto cancel option.
+-> If we need to submit the particulars that has been entered click onto submit option.
+
+2. Customer Details:
+-> This program will allow the admin to view customer details.
+-> If we need to print the particulars that has been viewed click onto print option.
+
+3. Deposit Details:
+-> This program will allow the admin to view bill details. If we need to sort the particulars based on meter_no and month.
+-> If we need to search the particulars that has been viewed click onto search option.
+-> If we need to print the particulars that has been viewed click onto print option.
+
+4. Tax Details:
+-> This program will allow the admin to add tax details. insert the values into tax, else print error
+-> Submit the details of tax that has been entered by clicking onto submit button.
+-> If we need to cancel the particulars that has been entered click onto canceloption.
+
+5. Calculate Bill:
+-> This program will allow the admin to calculate total_bill when units consumed are inserted where meter_no and month is selected.
+-> Insert the values into bill ,else print error
+-> Submit the details of tax that has been entered by clicking onto submit button.
+-> If we need to cancel the particulars that has been entered click onto cancel option.
+
+
+*****USER*****
+
+Login:
+-> This program will allow the customer to enter the username and password. If the entered credentials are correct, then the login will be successful 
+otherwise need to be signup with the meter_no which is given by admin. After successful login the customer will be redirected to customer portal page where he/she can do following activities.
+
+1. Update Information:
+-> This program will allow the customer to update the customer details. If customer address, city, state, email and phone number is updated.
+-> update the values into customer, else print error
+-> update the details of customer that has been updated by clicking onto update button.
+-> If we need to cancel the particulars that has been updated, click onto back option.
+
+2. View Information:
+-> This program will allow the customer to view his/her own details.
+-> If we need to go back from the particulars that has been viewed click onto back option.
+
+3.Pay Bill:
+-> This program will allow the customer to view bill details and redirects to pay.
+-> the bill where status will be updated.
+-> If we need to cancel the particulars that has been viewed click onto back option.
+-> If we need to pay the bill amount that has been viewed click onto pay option.
+
+4. Bill Details:
+-> This program will allow the customer to view bill details.
+-> If we need to print the particulars that has been viewed click onto print option.
+
+5.Generate Bill:
+-> This program will allow the customer to generate bill when 
+meter_no and month is selected.
+-> Generate the details by clicking on generatebill button.
+NOTE: Utility (notepad, calculator), and logout is given to both customer and admin portals.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 Software Requirements:
 
 -> Operating System: -Windows 10
@@ -58,5 +127,7 @@ Software Requirements:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Scope:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

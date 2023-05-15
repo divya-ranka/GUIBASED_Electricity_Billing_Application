@@ -54,9 +54,13 @@ Project Working Procedure:
 ***** ADMIN *****
 
 Login:
+
 -> This program will allow the admin to enter the username and password.
+
 -> If the entered credentials are correct, then the login will be successful otherwise need to be signup.
+
 -> After successful login the admin will be redirected to admin portal page where he/she can do following activities.
+
 
 1. New Customer:
 -> This program will allow the admin to enter the customer details and automatically generates unique meter number.

@@ -28,9 +28,13 @@ The software used for power billing computes the customer's use of units and gen
 OBJECTIVE OF MY PROJECT:
 
 To save the month's consumption of energy information.
+
 To preserve customer information.
+
 To preserve data about the previous month's energy consumption per unit.
+
 To consistently calculate the units consumed each month.
+
 To create the bills by adding the fine and the rent.
 To save time by introducing an online payment system.
 
@@ -129,6 +133,9 @@ NOTE: Utility (notepad, calculator), and logout is given to both customer and ad
 Software Requirements:
 
 -> Operating System: -Windows 10
+
 -> Software: -Microsoft SQL Server
+
 -> Front End: -Java core/swings (NetBeans)
+
 -> Back End: -My SQL

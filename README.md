@@ -108,7 +108,7 @@ otherwise need to be signup with the meter_no which is given by admin. After suc
 -> This program will allow the customer to view his/her own details.
 -> If we need to go back from the particulars that has been viewed click onto back option.
 
-3.Pay Bill:
+3. Pay Bill:
 -> This program will allow the customer to view bill details and redirects to pay.
 -> the bill where status will be updated.
 -> If we need to cancel the particulars that has been viewed click onto back option.
@@ -118,7 +118,7 @@ otherwise need to be signup with the meter_no which is given by admin. After suc
 -> This program will allow the customer to view bill details.
 -> If we need to print the particulars that has been viewed click onto print option.
 
-5.Generate Bill:
+5. Generate Bill:
 -> This program will allow the customer to generate bill when 
 meter_no and month is selected.
 -> Generate the details by clicking on generatebill button.

@@ -6,6 +6,7 @@ Developed the GUI based Application by using  Swing, AWT framework on netbeans a
 -> The suggested solution automates the cumbersome and time-consuming process of paying a power bill by visiting the power board. For the convenience of the user, it is also designed to automate the computation and payment of electricity bills. Java Swings, a foundational programming language for creating websites, online applications, and web services, is used to create the system.
 
 -> Back-end databases are also created using the Microsoft Structured Query Language (SQL) server. There would be two logins for the system: an administrator login and a user login. The administrator has access to the user's account information and may also add the customer's information on energy use for the current month.
+
 -> The administrator is responsible for entering each user's account's electricity usage data into the system. The system then determines each user's monthly electricity bill and updates the data in each user's account. Once the electricity bill is displayed, users can pay it before the month is out.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------

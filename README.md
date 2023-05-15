@@ -51,7 +51,8 @@ Solution:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Working Procedure:
 
-*****ADMIN***** 
+***** ADMIN *****
+
 Login:
 -> This program will allow the admin to enter the username and password.
 -> If the entered credentials are correct, then the login will be successful otherwise need to be signup.
